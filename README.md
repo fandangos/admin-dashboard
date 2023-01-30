@@ -12,3 +12,5 @@ Credits:
 - Profile template 2 by Christopher Campbell [unsplash](https://unsplash.com/photos/rDEOVtE7vOs)
 - Profile template 3 by Peri Stojnic [unsplash](https://unsplash.com/photos/5Vr_RVPfbMI)
 - Profile template 4 by Manja Vitolic [unsplash](https://unsplash.com/photos/gKXKBY-C-Dk)
+
+See it live [HERE](https://fandangos.github.io/admin-dashboard/)
